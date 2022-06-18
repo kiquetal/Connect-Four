@@ -1,11 +1,23 @@
 fun main() {
     // write your code here
-    val vowels = "aeiou"
+    val vowels = "aeiouy"
     val s = readLine()!!
-    var count = 0
+    var countVowel = 0
+    var countConsonant = 0
+    var needChars = 0
     for (i in 0 until s.length) {
         if (vowels.contains(s[i])) {
-            count++
+            countVowel++
+            countConsonant = 0
+        } else {
+            countConsonant++
+            countVowel = 0
+        }
+        if (countVowel == 3 || countConsonant == 3) {
+            needChars++
+            countVowel = 1
+            countConsonant = 1
         }
     }
+    println(needChars)
 }
