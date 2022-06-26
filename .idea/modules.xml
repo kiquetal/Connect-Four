@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect_Four.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect_Four.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect Four/task/Connect_Four.Connect_Four-task.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Connect_Four.Topics-Getting_substrings-Case_insensitive.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Connect_Four.Topics-Getting_substrings-Case_insensitive.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Connect_Four.Topics-Getting_substrings-Case_insensitive.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Connect_Four.Topics-Getting_substrings-Case_insensitive.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Connect_Four.Topics-Getting_substrings-Case_insensitive.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Getting substrings/Case insensitive/Connect_Four.Topics-Getting_substrings-Case_insensitive.test.iml" />

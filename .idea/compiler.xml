@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task.main" target="11" />
+      <module name="Connect_Four.Topics-Getting_substrings-Case_insensitive.main" target="11" />
+      <module name="Connect_Four.Topics-Getting_substrings-Crash_your_app.main" target="11" />
+      <module name="Connect_Four.Topics-Getting_substrings-Exchange.main" target="11" />
+      <module name="Connect_Four.Topics-Getting_substrings-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Getting_substrings-Void.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Create_an_euphonious_word.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Determine_the_output.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Generating_passwords.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Lucky_number.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Piece_of_alphabet.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-The_lucky_ticket.main" target="11" />
+      <module name="Connect_Four.Topics-Processing_strings-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Backslash_problem.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Rings_of_Power.main" target="11" />
+      <module name="Connect_Four.Topics-Regexps-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Standard_output-First,_second,_third.main" target="11" />
+      <module name="Connect_Four.Topics-Standard_output-Print_code.main" target="11" />
+      <module name="Connect_Four.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
+      <module name="Connect_Four.Topics-Values_and_variables-Assignments.main" target="11" />
+      <module name="Connect_Four.Topics-Values_and_variables-Statements.main" target="11" />
+      <module name="Connect_Four.Topics-Values_and_variables-Swap.main" target="11" />
+      <module name="Connect_Four.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Working_with_strings-Name_Card.main" target="11" />
+      <module name="Connect_Four.Topics-Working_with_strings-The_number_of_tens.main" target="11" />
+      <module name="Connect_Four.Topics-Working_with_strings-Theory.main" target="11" />
+      <module name="Connect_Four.util.main" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

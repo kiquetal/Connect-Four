@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Connect Four/task" />
             <option value="$PROJECT_DIR$/Topics/Getting substrings/Case insensitive" />
             <option value="$PROJECT_DIR$/Topics/Getting substrings/Crash your app" />
             <option value="$PROJECT_DIR$/Topics/Getting substrings/Exchange" />
