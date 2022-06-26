@@ -5,5 +5,8 @@ files:
   text: val color = TODO()
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10727#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 26 Jun 2022 03:17:25 UTC
 record: -1

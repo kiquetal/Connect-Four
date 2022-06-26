@@ -1,1 +1,1 @@
-val color = TODO()
+val color = "colou?rs?".toRegex();

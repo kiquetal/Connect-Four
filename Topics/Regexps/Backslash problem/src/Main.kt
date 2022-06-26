@@ -1,1 +1,1 @@
-val regex = TODO()
+val regex = "\\\\".toRegex()
