@@ -2,6 +2,11 @@ package connectfour
 
 const val ROWS = 6
 const val COLUMNS = 7
+const val BORDER_COL = "║"
+const val BORDER_LEFT ="╚"
+const val BORDER_RIGHT ="╝"
+const val BORDER_BOTTOM="╩"
+const val BORDER_ROW="═"
 fun main() {
     println("Connect Four")
     println("First player's name:")
@@ -38,5 +43,40 @@ fun main() {
 fun proccessBoard(rows: Int, cols: Int, player: String, player2: String) {
     println("$player VS $player2")
     println("$rows X $cols board")
+    printBoard(rows, cols)
 }
+fun printBoard(rows: Int, cols: Int) {
+    for (i in 0 until rows +1) {
+        if (i == 0) {
+            for (j in 0 until cols)
+                print(" " + (j + 1))
+            println()
+        }
+        for (j in 0 until cols + 1) {
+            if (j == 0 && i != rows ) {
+                print(BORDER_COL)
+            } else {
+                if (i == rows  && j != cols ) {
+                    if (j==0)
+                    print( BORDER_LEFT + BORDER_ROW + BORDER_BOTTOM )
+                    else
+                        if (j!=cols-1)
+                        print(BORDER_ROW  + BORDER_BOTTOM)
+                }
+                else
+                {
+                    if ( j == cols && i == rows )
+                        print(BORDER_ROW + BORDER_RIGHT)
+                    else
+                    print(" $BORDER_COL")
+                }
 
+            }
+
+        }
+        println("")
+
+
+    }
+
+}
